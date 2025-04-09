@@ -5,7 +5,7 @@
 <details>
   <summary>O que foi desenvolvido</summary>
 
-- Simulação de um cadastro de atividades avaliativas, seja exercícios ou projetos;
+- Simulação de um cadastro de atividades avaliativas;
 - Inserção de notas dos exercícios e projetos cadastrados para o período;
 - Lógica de aprovação ou reprovação com base na nota obtida.
 
